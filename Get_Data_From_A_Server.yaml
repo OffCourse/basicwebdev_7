@@ -1,0 +1,13 @@
+curator: Charlotte
+goal: Get Data from a Server
+checkpoints: 
+  - task: Get the Difference between Client and Server
+    resource-url: "http://theydiffer.com/difference-between-a-client-and-a-server/"
+  - task: Communicate with a Server
+    resource-url: "https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started"
+  - task: Understand AJAX
+    resource-url: "https://thenewboston.com/videos.php?cat=61"
+  - task: See it in Code
+    resource-url: "https://www.youtube.com/watch?v=qqRiDlm-SnY"
+  - task: Handle Your Errors
+    resource-url: ""
