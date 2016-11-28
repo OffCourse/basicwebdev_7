@@ -1,13 +1,13 @@
 curator: Charlotte
 goal: Write Maintainable CSS
 checkpoints: 
-  - task: Don't Repeat Yourself
+  - task: Do not Repeat Yourself
     resource-url: "https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node23.html" 
   - task: Learn about CSS Preprocessing
     resource-url: "https://drupalize.me/videos/what-css-preprocessor"
-  - task: Create Re-Usable Chunks with Mixins
-    resource-url: "https://www.sitepoint.com/sass-basics-the-mixin-directive/"
-  - task: Store Styles in Variables
-    resource-url: "https://robots.thoughtbot.com/sass-variables"
   - task: Mimic HTML Structure with Nesting 
     resource-url: "https://www.sitepoint.com/sass-basics-nesting/"
+  - task: Store Styles in Variables
+    resource-url: "https://robots.thoughtbot.com/sass-variables"
+  - task: Create Re-Usable Chunks with Mixins
+    resource-url: "https://www.sitepoint.com/sass-basics-the-mixin-directive/"

@@ -2,11 +2,8 @@ curator: Charlotte
 goal: Manage Data in Your Application 
 checkpoints: 
   - task: Learn about State 
-    resource-url: "https://www.youtube.com/watch?v=5tT8FXeE1Y8"
+    resource-url: "https://www.toptal.com/react/managing-view-state-with-react"
   - task: Store your States
-    resource-url: ""
+    resource-url: "https://www.youtube.com/watch?v=5tT8FXeE1Y8"
   - task: Handle State Changes
     resource-url: "http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/"
-    
-    
-https://firstdoit.com/how-i-learned-to-stop-worrying-and-love-react-4e22b0bb6c2a#.hk3ppdfqm

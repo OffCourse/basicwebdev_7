@@ -9,5 +9,3 @@ checkpoints:
     resource-url: "https://thenewboston.com/videos.php?cat=61"
   - task: See it in Code
     resource-url: "https://www.youtube.com/watch?v=qqRiDlm-SnY"
-  - task: Handle Your Errors
-    resource-url: ""
