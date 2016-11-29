@@ -1,5 +1,5 @@
 curator: Charlotte
-goal: Do not Act, React
+goal: "Don't Act, React"
 checkpoints: 
   - task: Understand Events
     resource-url: "http://www.quirksmode.org/js/introevents.html"
