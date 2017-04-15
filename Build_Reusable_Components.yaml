@@ -1,9 +1,8 @@
-curator: Charlotte
 goal: Build Reusable Components
 checkpoints: 
   - task: Do Not Repeat Yourself (D.R.Y)
-    resource-url: "https://en.wikipedia.org/wiki/Don't_repeat_yourself"
+    resource-url: "https://en.wikipedia.org/wiki/Don't_repeat_yourself/"
   - task: Think in Components
-    resource-url: "https://facebook.github.io/react/docs/thinking-in-react.html"
+    resource-url: "https://facebook.github.io/react/docs/thinking-in-react.html/"
   - task: Work with Components
-    resource-url: "https://www.codementor.io/react/tutorial/building-a-pokedex-with-react-1"
+    resource-url: "https://www.codementor.io/react/tutorial/building-a-pokedex-with-react-1/"
