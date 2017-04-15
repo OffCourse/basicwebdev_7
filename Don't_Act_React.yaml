@@ -1,12 +1,11 @@
-curator: Charlotte
 goal: "Don't Act, React"
 checkpoints: 
   - task: Understand Events
-    resource-url: "http://www.quirksmode.org/js/introevents.html"
+    resource-url: "http://www.quirksmode.org/js/introevents.html/"
   - task: Handle Events
-    resource-url: "http://eloquentjavascript.net/14_event.html"
+    resource-url: "http://eloquentjavascript.net/14_event.html/"
   - task: Be Concurrent
-    resource-url: "https://www.youtube.com/watch?v=VLq9DfL4g8w"
+    resource-url: "https://www.youtube.com/watch?v=VLq9DfL4g8w/"
   - task: Learn about Timers
     resource-url: "http://ejohn.org/blog/how-javascript-timers-work/"
    
